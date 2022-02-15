@@ -1,1 +1,1 @@
-pallitta_assignment3
+Practice for various input checks and algorithms
